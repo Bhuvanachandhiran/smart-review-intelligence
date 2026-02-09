@@ -24,7 +24,4 @@ An NLP-based application that analyzes customer reviews and extracts actionable 
 ## Use Case
 Designed to help businesses understand customer feedback and extract structured insights from unstructured text.
 
-## How to Run
-```bash
-pip install -r requirements.txt
-streamlit run app.py
+
